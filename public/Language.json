@@ -1,0 +1,75 @@
+[
+    {
+      "language": "English",
+      "price": 49.99,
+      "duration": "2 hours",
+      "details": "Learn English language skills",
+      "lesson": "10 lessons",
+      "students": 100,
+      "img": "english.jpg",
+      "rating": 4.5,
+      "flag": false,
+      "title": "English Language Course"
+    },
+    {
+      "language": "German",
+      "price": 59.99,
+      "duration": "3 hours",
+      "details": "Master the German language",
+      "lesson": "15 lessons",
+      "students": 75,
+      "img": "german.jpg",
+      "rating": 4.2,
+      "flag": true,
+      "title": "German Language Course"
+    },
+    {
+      "language": "Arabic",
+      "price": 29.99,
+      "duration": "1.5 hours",
+      "details": "Beginner's guide to Arabic language",
+      "lesson": "5 lessons",
+      "students": 50,
+      "img": "arabic.jpg",
+      "rating": 4.8,
+      "flag": false,
+      "title": "Arabic Language Course"
+    },
+    {
+      "language": "French",
+      "price": 39.99,
+      "duration": "2.5 hours",
+      "details": "Learn the French language and culture",
+      "lesson": "8 lessons",
+      "students": 60,
+      "img": "french.jpg",
+      "rating": 4.4,
+      "flag": false,
+      "title": "French Language Course"
+    },
+    {
+      "language": "Spanish",
+      "price": 49.99,
+      "duration": "2 hours",
+      "details": "Conversational Spanish for beginners",
+      "lesson": "12 lessons",
+      "students": 90,
+      "img": "spanish.jpg",
+      "rating": 4.6,
+      "flag": true,
+      "title": "Spanish Language Course"
+    },
+    {
+      "language": "Chinese",
+      "price": 59.99,
+      "duration": "3 hours",
+      "details": "Introduction to Chinese language and characters",
+      "lesson": "10 lessons",
+      "students": 70,
+      "img": "chinese.jpg",
+      "rating": 4.3,
+      "flag": false,
+      "title": "Chinese Language Course"
+    }
+  ]
+  
